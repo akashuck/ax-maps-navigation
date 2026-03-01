@@ -12,9 +12,12 @@
 • Lightweight and fast for mobile use  
 
 ## 🔹 Tech Stack
-• **HTML / CSS / JavaScript** for frontend  
-• **Map API** (Google Maps, Mapbox, or custom) for geospatial data  
-• **Optional backend** for storing locations or user data  
+• HTML / CSS / JavaScript – frontend UI and interactivity
+• Map API: OpenStreetMap – for mapping and geolocation
+• Geolocation API – access device GPS data
+• LocalStorage - for storing markers and history locally
+• Responsive Design – works on mobile and desktop
+• Deployment: GitHub Pages or any web hosting
 
 ## 🔹 How to Use
 1. Open the project on your mobile or browser.  
