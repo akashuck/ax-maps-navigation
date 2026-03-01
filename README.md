@@ -3,7 +3,7 @@
 **Ax Maps** is a mobile-based mapping project I built to explore real-time location tracking, geospatial visualization, and interactive map features. It’s lightweight, mobile-friendly, and designed for experimentation with GPS and map APIs.
 
 ## 🔹 Live Demo / Preview
-*(comming soon)*
+Check out the live demo : https://akashuck.github.io/ax-maps-navigation/
 
 ## 🔹 Features
 • Real-time GPS tracking and mapping  
