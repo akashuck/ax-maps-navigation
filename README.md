@@ -1,39 +1,36 @@
-~ Ax Maps
+# Ax Maps – Mobile Mapping Project
 
-Ax Maps is a real-time GPS navigation prototype built to understand how modern map systems work.
+**Ax Maps** is a mobile-based mapping project I built to explore real-time location tracking, geospatial visualization, and interactive map features. It’s lightweight, mobile-friendly, and designed for experimentation with GPS and map APIs.
 
+## 🔹 Live Demo / Preview
+*(comming soon)*
 
-What it does :
-• Live user location tracking
-• Location search using 
+## 🔹 Features
+• Real-time GPS tracking and mapping  
+• Easy-to-use mobile interface  
+• Interactive map with custom markers and routes  
+• Lightweight and fast for mobile use  
 
+## 🔹 Tech Stack
+• **HTML / CSS / JavaScript** for frontend  
+• **Map API** (Google Maps, Mapbox, or custom) for geospatial data  
+• **Optional backend** for storing locations or user data  
 
-OpenStreetMap:
-• Road-based route drawing
-• Follow mode with dynamic route 
+## 🔹 How to Use
+1. Open the project on your mobile or browser.  
+2. Grant location access if prompted.  
+3. Explore real-time tracking, add markers, or check routes.  
+4. Interact with maps for testing or development purposes.  
 
+## 🔹 Future Updates
+• Add offline map support  
+• Integrate route planning and navigation  
+• Store and retrieve user location history  
+• Improve UI/UX for mobile interactions  
 
-updates :
-• Straight-line distance calculation
+## 🔹 Feedback
+Built as part of my personal projects to explore geolocation and mapping. Suggestions and feedback welcome.  
 
+---
 
-Tech Used :
-• Leaflet
-• OpenStreetMap
-• OSRM
-• HTML, CSS, JavaScript
-
-
-Why I built this :
-I built this project to understand how map tiles load, how routing engines work, and how real-time tracking systems are structured. The focus was on system thinking, API handling, and performance control rather than just UI design.
-
-
-Notes:
-This project uses public routing and tile services for demonstration purposes.
-
-
-Future Improvements :
-• ETA calculation
-• Multiple map styles
-• Route caching
-• Backend integration
+Built with 💡 by **Akash** – learning, experimenting, and building mobile-first mapping solutions.
